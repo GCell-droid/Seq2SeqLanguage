@@ -1,7 +1,0 @@
-.DS_Store
-
-.idea
-.vscode
-.ipynb_checkpoints
-
-data/glove*

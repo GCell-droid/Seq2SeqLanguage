@@ -21,7 +21,6 @@ Creating English-to-Hindi **language translation model** using ***neural machine
 * TensorFlow  
 * Keras  
 * NumPy  
-* Graphviz  
 
 ---
 
